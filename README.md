@@ -12,9 +12,13 @@ I have made this on Windows 10 but you should consider the different way to get 
 6. smtplib 
 7. webbrowser
 
+### Steps to get Wolframalpha API key
+1. Go to Wolframalpha developers page:: http://products.wolframalpha.com/api/ then click Get the API Acess Key.
+2. Sing-in or Sign Up i.e. required
+3. Get the API Acess Key
 
 
 # Further Improvement
 * Search for the best product and it's details form amazon using web Scraping with voice.
-* Use it to control PC(desktop) functions such as open or close certain application, play songs capture photo, tweet post etc.
+* Use it to control PC(desktop) functions such as open or close certain application, play songs, capture photo, tweet post etc.
 * In next level use it to control the IOT devices of home, car etc. with speech seemlessly.
